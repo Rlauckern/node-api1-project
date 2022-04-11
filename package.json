@@ -19,6 +19,8 @@
     "url": "git+https://github.com/BloomInstituteOfTechnology/node-api1-project.git"
   },
   "dependencies": {
+    "@vscode/sqlite3": "^5.0.8",
+    "express": "^4.17.3",
     "nanoid": "^3.3.1"
   }
 }
